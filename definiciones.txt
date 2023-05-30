@@ -1,3 +1,6 @@
 Clases: Molde o plantilla  
 Objeto: pertenece o es una representacion de una clase  
 Metodo:  Operaciones que realiza el objeto 
+Atributo: Son las características que tiene o se le asigna a un objeto en específico.
+Setters: Es una función que nos permite asignar un valor a una variable.
+Getters: Es una función que nos permite obtener el valor de algún elemento.
