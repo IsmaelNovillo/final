@@ -1,1 +1,3 @@
-clase: molde o plantila 
+Clases: Molde o plantilla  
+Objeto: pertenece o es una representacion de una clase  
+Metodo:  Operaciones que realiza el objeto 
